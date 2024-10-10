@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("your-background-image.jpg") no-repeat center center fixed;
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#detalles_auto {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 15px;
+  padding: 20px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  max-width: 600px;
+  text-align: center;
+  color: #fff;
+  font-family: "Arial", sans-serif;
+}
+
+h1,
+p {
+  margin: 10px 0;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  border-radius: 3rem;
+  margin: 35px;
+}

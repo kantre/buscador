@@ -1,0 +1,347 @@
+{
+  "autos": [
+    {
+      "id": "1",
+      "nombre": "Mustang",
+      "modelo": "GT",
+      "fabricante": "Ford",
+      "imagen": "autos/ford-mustang-gt-50-935793.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Civic",
+      "modelo": "Si",
+      "fabricante": "Honda",
+      "imagen": "autos/civic si.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Corvette",
+      "modelo": "C8",
+      "fabricante": "Chevrolet",
+      "imagen": "autos/corvette c8.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Camry",
+      "modelo": "SE",
+      "fabricante": "Toyota",
+      "imagen": "autos/camry se toyota.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Charger",
+      "modelo": "SRT Hellcat",
+      "fabricante": "Dodge",
+      "imagen": "autos/charger hellcat.jpg"
+    },
+    {
+      "id": "6",
+      "nombre": "Accord",
+      "modelo": "Touring",
+      "fabricante": "Honda",
+      "imagen": "autos/accord.jpg"
+    },
+    {
+      "id": "7",
+      "nombre": "Model S",
+      "modelo": "Plaid",
+      "fabricante": "Tesla",
+      "imagen": "autos/tesla plaid s.jpg"
+    },
+    {
+      "id": "8",
+      "nombre": "F-150",
+      "modelo": "Raptor",
+      "fabricante": "Ford",
+      "imagen": "autos/ford raptor f150.jpg"
+    },
+    {
+      "id": "9",
+      "nombre": "Golf",
+      "modelo": "GTI",
+      "fabricante": "Volkswagen",
+      "imagen": "autos/golf gti.jpg"
+    },
+    {
+      "id": "10",
+      "nombre": "Wrangler",
+      "modelo": "Rubicon",
+      "fabricante": "Jeep",
+      "imagen": "autos/jeep wrangler.jpg"
+    },
+    {
+      "id": "11",
+      "nombre": "A4",
+      "modelo": "Quattro",
+      "fabricante": "Audi",
+      "imagen": "autos/audi a4.jpg"
+    },
+    {
+      "id": "12",
+      "nombre": "3 Series",
+      "modelo": "330i",
+      "fabricante": "BMW",
+      "imagen": "autos/bmw 330i.jpg"
+    },
+    {
+      "id": "13",
+      "nombre": "Altima",
+      "modelo": "SR",
+      "fabricante": "Nissan",
+      "imagen": "autos/nissan altima.jpg"
+    },
+    {
+      "id": "14",
+      "nombre": "Challenger",
+      "modelo": "SRT Demon",
+      "fabricante": "Dodge",
+      "imagen": "autos/chalenger demon.jpg"
+    },
+    {
+      "id": "15",
+      "nombre": "Q7",
+      "modelo": "Prestige",
+      "fabricante": "Audi",
+      "imagen": "autos/audi q7.jpg"
+    },
+    {
+      "id": "16",
+      "nombre": "Explorer",
+      "modelo": "ST",
+      "fabricante": "Ford",
+      "imagen": "autos/ford explorer st.jpg"
+    },
+    {
+      "id": "17",
+      "nombre": "Impreza",
+      "modelo": "WRX",
+      "fabricante": "Subaru",
+      "imagen": "autos/subaru impreza.jpg"
+    },
+    {
+      "id": "18",
+      "nombre": "Cayenne",
+      "modelo": "Turbo",
+      "fabricante": "Porsche",
+      "imagen": "autos/cayanne.jpg"
+    },
+    {
+      "id": "19",
+      "nombre": "Tahoe",
+      "modelo": "Z71",
+      "fabricante": "Chevrolet",
+      "imagen": "autos/chevrolet tahoe.jpg"
+    },
+    {
+      "id": "20",
+      "nombre": "Escalade",
+      "modelo": "Platinum",
+      "fabricante": "Cadillac",
+      "imagen": "autos/escalade.jpg"
+    },
+    {
+      "id": "21",
+      "nombre": "RAV4",
+      "modelo": "Adventure",
+      "fabricante": "Toyota",
+      "imagen": "autos/rav4 toyota.jpg"
+    },
+    {
+      "id": "22",
+      "nombre": "Sierra",
+      "modelo": "Denali",
+      "fabricante": "GMC",
+      "imagen": "autos/cierra gmc.jpg"
+    },
+    {
+      "id": "23",
+      "nombre": "Durango",
+      "modelo": "SRT",
+      "fabricante": "Dodge",
+      "imagen": "autos/durango.jpg"
+    },
+    {
+      "id": "24",
+      "nombre": "CX-5",
+      "modelo": "Signature",
+      "fabricante": "Mazda",
+      "imagen": "autos/cx-5.jpg"
+    },
+    {
+      "id": "25",
+      "nombre": "Aventador",
+      "modelo": "SVJ",
+      "fabricante": "Lamborghini",
+      "imagen": "autos/aventador.jpg"
+    },
+    {
+      "id": "26",
+      "nombre": "Chiron",
+      "modelo": "Super Sport",
+      "fabricante": "Bugatti",
+      "imagen": "autos/chiron bugatti.jpg"
+    },
+    {
+      "id": "27",
+      "nombre": "Huracan",
+      "modelo": "Evo",
+      "fabricante": "Lamborghini",
+      "imagen": "autos/uracan evo.jpg"
+    },
+    {
+      "id": "28",
+      "nombre": "458 Italia",
+      "modelo": "Spider",
+      "fabricante": "Ferrari",
+      "imagen": "autos/458 italia.jpg"
+    },
+    {
+      "id": "29",
+      "nombre": "Camaro",
+      "modelo": "ZL1",
+      "fabricante": "Chevrolet",
+      "imagen": "autos/camaro zl1.jpg"
+    },
+    {
+      "id": "30",
+      "nombre": "Panamera",
+      "modelo": "Turbo S",
+      "fabricante": "Porsche",
+      "imagen": "autos/panamera.jpg"
+    },
+    {
+      "id": "31",
+      "nombre": "G-Class",
+      "modelo": "AMG G63",
+      "fabricante": "Mercedes-Benz",
+      "imagen": "autos/g-class mercedez.jpg"
+    },
+    {
+      "id": "32",
+      "nombre": "Bronco",
+      "modelo": "Wildtrak",
+      "fabricante": "Ford",
+      "imagen": "autos/bronco.jpg"
+    },
+    {
+      "id": "33",
+      "nombre": "Range Rover",
+      "modelo": "Autobiography",
+      "fabricante": "Land Rover",
+      "imagen": "autos/renge rover.jpg"
+    },
+    {
+      "id": "34",
+      "nombre": "M5",
+      "modelo": "Competition",
+      "fabricante": "BMW",
+      "imagen": "autos/m5.jpg"
+    },
+    {
+      "id": "35",
+      "nombre": "Ranger",
+      "modelo": "Wildtrak",
+      "fabricante": "Ford",
+      "imagen": "autos/ranger.jpg"
+    },
+    {
+      "id": "36",
+      "nombre": "Tiguan",
+      "modelo": "SEL",
+      "fabricante": "Volkswagen",
+      "imagen": "autos/tiguan.jpg"
+    },
+    {
+      "id": "37",
+      "nombre": "Aston Martin",
+      "modelo": "Vantage",
+      "fabricante": "Aston Martin",
+      "imagen": "autos/vantage.jpg"
+    },
+    {
+      "id": "38",
+      "nombre": "718 Cayman",
+      "modelo": "GTS",
+      "fabricante": "Porsche",
+      "imagen": "autos/cayman.jpg"
+    },
+    {
+      "id": "39",
+      "nombre": "Elantra",
+      "modelo": "N",
+      "fabricante": "Hyundai",
+      "imagen": "autos/elantra.jpg"
+    },
+    {
+      "id": "40",
+      "nombre": "Supra",
+      "modelo": "GR",
+      "fabricante": "Toyota",
+      "imagen": "autos/supra.jpg"
+    },
+    {
+      "id": "41",
+      "nombre": "F-Type",
+      "modelo": "R-Dynamic",
+      "fabricante": "Jaguar",
+      "imagen": "autos/jaguar -type.jpg"
+    },
+    {
+      "id": "42",
+      "nombre": "Lucid",
+      "modelo": "Air Dream",
+      "fabricante": "Lucid Motors",
+      "imagen": "autos/lucid.jpg"
+    },
+    {
+      "id": "43",
+      "nombre": "X5",
+      "modelo": "M",
+      "fabricante": "BMW",
+      "imagen": "autos/x5.jpg"
+    },
+    {
+      "id": "44",
+      "nombre": "Giulia",
+      "modelo": "Quadrifoglio",
+      "fabricante": "Alfa Romeo",
+      "imagen": "autos/giulia alfa romeo.jpg"
+    },
+    {
+      "id": "45",
+      "nombre": "S-Class",
+      "modelo": "S580",
+      "fabricante": "Mercedes-Benz",
+      "imagen": "autos/s-class mercedez.jpg"
+    },
+    {
+      "id": "46",
+      "nombre": "URUS",
+      "modelo": "Performante",
+      "fabricante": "Lamborghini",
+      "imagen": "autos/urus.jpg"
+    },
+    {
+      "id": "47",
+      "nombre": "RS7",
+      "modelo": "Sportback",
+      "fabricante": "Audi",
+      "imagen": "autos/rs7 audi.jpg"
+    },
+    {
+      "id": "48",
+      "nombre": "Stinger",
+      "modelo": "GT2",
+      "fabricante": "Kia",
+      "imagen": "autos/stringer kia.jpg"
+    },
+    {
+      "id": "49",
+      "nombre": "Veloster",
+      "modelo": "N",
+      "fabricante": "Hyundai",
+      "imagen": "autos/veloster.jpg"
+    }
+  ]
+}
