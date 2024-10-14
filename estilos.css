@@ -1,11 +1,19 @@
 body {
   font-family: Arial, sans-serif;
-  background: linear-gradient(45deg, #f7f7f7, #697d80);
+  background-image: url(autos/fondo.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 
 header {
   text-align: center;
   margin-bottom: 20px;
+}
+
+h1 {
+  color: white;
 }
 
 .contenedor {

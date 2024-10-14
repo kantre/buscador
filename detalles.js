@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       <p>Modelo: ${auto.modelo}</p>
       <p>Fabricante: ${auto.fabricante}</p>
       <img src="${auto.imagen}" alt="${auto.nombre}" width="500px" />
-      <p>Descripción: ${auto.descripcion}</p>
+      <button class="btnVolver"><a href="index.html">Volver al Inicio</a></button>
     `;
   }
 
